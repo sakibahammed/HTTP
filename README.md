@@ -32,4 +32,4 @@ A URL, or Uniform Resource Locator, is essentially the address of another comput
 
 For now, it's important to understand that a URL represents a piece of information on another computer that we want access to. We can get access to it by making a request, and reading the response that the server replies with.
 
-![plot](//Screenshot%202024-06-23%20at%205.59.25 PM.png)
+<img src="//Screenshot 2024-06-23 at 5.59.25 PM.png" width="128"/>
