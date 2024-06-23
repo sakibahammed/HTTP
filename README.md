@@ -22,4 +22,5 @@
 # life cycle of HTTP : 
 
    Its very simple , The client or computer ask for a response / data to server (another computer) and the server returns the data if it has it. 
-    
+
+![alt text](https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/mi20b1O.png) 
