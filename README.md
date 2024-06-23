@@ -31,3 +31,5 @@ Its very simple , The client or computer ask for a response / data to server (an
 A URL, or Uniform Resource Locator, is essentially the address of another computer, or "server" on the internet. Part of the URL specifies how to reach the server, and part of it tells the server what information we want - but more on that later.
 
 For now, it's important to understand that a URL represents a piece of information on another computer that we want access to. We can get access to it by making a request, and reading the response that the server replies with.
+
+![alt text](//Screenshot%202024-06-23%20at%205.59.25 PM.png)
